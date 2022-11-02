@@ -1,4 +1,4 @@
-# Spectral-Graph-Theory-for-Linkage-Graphs
+# Study of Linkage Graphs
 Spectral graph theory for graphs of linked companies in the stock market
 
 
